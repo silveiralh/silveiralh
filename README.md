@@ -9,7 +9,7 @@ Some skills:<br />
 :page_facing_up:  MySQL, PostgreSQL, Firebase <br />
 :v: Photoshop, Illustrator, Adobe XD<br />
 ## 
-:mailbox_with_mail:  You can reach me: [Linkedin](www.linkedin.com/in/silveiralh), [Gmail](mailto:silveira.lh@gmail.com)<br />
+:mailbox_with_mail:  You can reach me: [Linkedin](https://www.linkedin.com/in/silveiralh), [Gmail](mailto:silveira.lh@gmail.com)<br />
 <!--
 **silveiralh/silveiralh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
