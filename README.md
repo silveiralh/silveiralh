@@ -10,6 +10,8 @@ Some skills:<br />
 :v: Photoshop, Illustrator, Adobe XD<br />
 ## 
 :mailbox_with_mail:  You can reach me: [Linkedin](https://www.linkedin.com/in/silveiralh), [Gmail](mailto:silveira.lh@gmail.com)<br />
+##
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveiralh&show_icons=true)
 <!--
 **silveiralh/silveiralh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
