@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##
 
-I'm Luiz Henrique, Computer Technician and Software Engeneering student at [Federal University of Technology – Paraná](http://portal.utfpr.edu.br/english) <br />
+I'm Luiz Henrique, Computer Technician and Software Engeneering student at [Federal Technological University of Paraná](http://portal.utfpr.edu.br/english) <br />
 
 :seedling:  I’m currently learning ReactJS, React Native and NodeJS<br />
 Some skills:<br />
